@@ -11,10 +11,10 @@ Figure 1. Raspberry Pi Zero dimensions and GPIO pinout.
 
 Figure 2. Raspberry B dimensions.
 
-
+![image](https://github.com/DeadHandConspiracy/Power-Shim/assets/90804577/4d34fd3c-b591-4510-ad9e-81dffb30fc43)
 
 Figure 3. Current design for the Power supply (Untested) 
 
-
+![image](https://github.com/DeadHandConspiracy/Power-Shim/assets/90804577/f95516f2-8041-43f9-bb17-4d6405364334)
 
 Figure 4. Current design Wide Input Push-button circuit (Untested)
