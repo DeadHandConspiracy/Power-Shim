@@ -17,4 +17,4 @@ Figure 3. Current design for the Power supply (Untested)
 
 ![image](https://github.com/DeadHandConspiracy/Power-Shim/assets/90804577/f95516f2-8041-43f9-bb17-4d6405364334)
 
-Figure 4. Current design Wide Input Push-button circuit (Untested)
+Figure 4. Push-button circuit (Untested)
